@@ -1,0 +1,9 @@
+body {
+    display: block;
+    margin: 8px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 175px;
+}
